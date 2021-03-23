@@ -18,4 +18,4 @@
 
 sed -i '$a src-git kenzoThem https://github.com/kenzok8/luci-theme-ifit.git' feeds.conf.default
 sed -i '$a src-git kenzoPKG https://github.com/kenzok8/openwrt-packages.git' feeds.conf.default
-sed -i '$a src-git kenzoSmall https://github.com/kenzok8/small.git' feeds.conf.defaul
+sed -i '$a src-git kenzoSmall https://github.com/kenzok8/small.git' feeds.conf.default
